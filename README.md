@@ -1,1 +1,1 @@
-this is a build of the latest MagitekRoutine .dll from my dev branch, updated whenever I feel like
+this is a build of the latest MagitekRoutine .dll from my dev branch, updated whenever I feel like.  If you're not sure what you're doing with this, backup your old settings and files before trying to use (which is at your own risk)
